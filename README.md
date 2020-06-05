@@ -14,8 +14,9 @@
 
  - [Node.js](https://nodejs.org/en/)
  - [TypeScript](https://www.typescriptlang.org/)
- - [Express](https://expressjs.com/pt-br/)
  - [TypeORM](https://typeorm.io/#/)
+ - [multer](https://www.npmjs.com/package/multer)
+ - [Express](https://expressjs.com/pt-br/)
  - [docker](https://www.docker.com/)
  - [postgreSQL](https://www.postgresql.org/)
 
