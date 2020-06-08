@@ -36,7 +36,7 @@ $ cd database-upload
 $ yarn
 
 # Start the server
-$ yarn de:serverv
+$ yarn dev:server
 
  ```
 Obs.: for database building and development it has been used **postgreSQL**, using **docker** for database's upload and **DBeaver** for tables' visualization.
