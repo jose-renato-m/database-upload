@@ -8,7 +8,7 @@
 
  ---
 
- ## 💻 Used Tchnologies
+ ## 💻 Used Technologies
 
  The challenge has been developed using the following technologies:
 
